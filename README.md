@@ -4,3 +4,4 @@ This respository contains code examples for the online course [Apache Maven: Beg
 
 ## Testing Java with Maven Examples
 # mb2g-testing-maven-surefire
+# mb2g-testing-maven-surefire-spock
